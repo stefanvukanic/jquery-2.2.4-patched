@@ -1,5 +1,5 @@
 /*!
- * jQuery JavaScript Library v2.2.4
+ * jQuery JavaScript Library v2.2.4-patched
  * http://jquery.com/
  *
  * Includes Sizzle.js
@@ -9,7 +9,7 @@
  * Released under the MIT license
  * http://jquery.org/license
  *
- * Date: 2020-07-31T07:59Z
+ * Date: 2020-08-03T10:31Z
  */
 
 (function( global, factory ) {
@@ -65,7 +65,7 @@ var support = {};
 
 
 var
-	version = "2.2.4",
+	version = "2.2.4-patched",
 
 	// Define a local copy of jQuery
 	jQuery = function( selector, context ) {

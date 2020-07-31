@@ -2,7 +2,7 @@
   "name": "jquery-2-patched",
   "title": "jQuery 2.2.4 Patched",
   "description": "jQuery 2.2.4 + vulnerability patches forked from tnwebdev/jquery-2.2.4-patched",
-  "version": "2.2.4",
+  "version": "2.2.4-patched",
   "main": "dist/jquery.js",
   "homepage": "https://github.com/stefanvukanic/jquery-2.2.4-patched",
   "author": {
