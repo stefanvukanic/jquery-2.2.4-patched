@@ -1,17 +1,17 @@
 {
-  "name": "@tnwebpro/jquery",
+  "name": "jquery-2-patched",
   "title": "jQuery 2.2.4 Patched",
-  "description": "jQuery 2.2.4 + vulnerability patches",
+  "description": "jQuery 2.2.4 + vulnerability patches forked from tnwebdev/jquery-2.2.4-patched",
   "version": "2.2.4",
   "main": "dist/jquery.js",
-  "homepage": "https://github.com/tnwebdev/jquery-2.2.4-patched",
+  "homepage": "https://github.com/stefanvukanic/jquery-2.2.4-patched",
   "author": {
     "name": "jQuery Foundation and other contributors",
     "url": "https://github.com/tnwebdev/jquery-2.2.4-patched/blob/master/AUTHORS.txt"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/tnwebdev/jquery-2.2.4-patched.git"
+    "url": "https://github.com/stefanvukanic/jquery-2.2.4-patched"
   },
   "keywords": [
     "jquery",
